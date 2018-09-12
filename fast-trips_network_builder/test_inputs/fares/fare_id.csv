@@ -1,0 +1,4 @@
+operator,origin_zone,destination_zone,fare_id
+1,1,1,tntransit_local_bus
+2,1,1,tntransit_express_bus
+3,1,1,tntransit_heavy_rail

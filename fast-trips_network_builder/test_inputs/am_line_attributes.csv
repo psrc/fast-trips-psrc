@@ -1,0 +1,7 @@
+id,long_name,shape_id,route_id,short_name,proof_of_payment,ft_mode,vehicle_name
+1,A_EB,TNT_A_EB,TNT_A_EB,A,0,local_bus,bus
+2,A_WB,TNT_A_WB,TNT_A_WB,A,0,local_bus,bus
+3,B_EB,TNT_B_EB,TNT_B_EB,B,0,express_bus,bus
+4,B_WB,TNT_B_WB,TNT_B_WB,B,0,express_bus,bus
+5,C_NB,TNT_C_NB,TNT_C_NB,C,0,heavy_rail,train
+6,C_SB,TNT_C_SB,TNT_C_SB,C,0,heavy_rail,train

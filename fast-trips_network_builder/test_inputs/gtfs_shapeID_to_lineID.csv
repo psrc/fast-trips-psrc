@@ -1,0 +1,7 @@
+model_shape_id,gtfs_shape_id,feed,service_id
+TNT_A_EB,TNT_A_EB,TNT,tntransit
+TNT_A_WB,TNT_A_WB,TNT,tntransit
+TNT_B_EB,TNT_B_EB,TNT,tntransit
+TNT_B_WB,TNT_B_WB,TNT,tntransit
+TNT_C_NB,TNT_C_NB,TNT,tntransit
+TNT_C_SB,TNT_C_SB,TNT,tntransit
